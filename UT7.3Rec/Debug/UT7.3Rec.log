@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UT7.3Rec.cpp
+D:\Student\Volvenko Ivan IT-12\AP\PR7.3(Rec)\PR7.3(Rec)\Lab_07_3.cpp(120): warning C4715: FindRow: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Student\Volvenko Ivan IT-12\AP\PR7.3(Rec)\Debug\UT7.3Rec.lib и объект D:\Student\Volvenko Ivan IT-12\AP\PR7.3(Rec)\Debug\UT7.3Rec.exp
+  UT7.3Rec.vcxproj -> D:\Student\Volvenko Ivan IT-12\AP\PR7.3(Rec)\Debug\UT7.3Rec.dll
